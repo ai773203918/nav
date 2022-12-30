@@ -19,8 +19,14 @@
     "url": "https://www.google.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/google.svg",
     "blocked": false,
-    "isInner": false,
-    "placeholder": "Google"
+    "isInner": false
+  },
+  {
+    "name": "必应",
+    "url": "https://cn.bing.com/search?q=",
+    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
+    "blocked": false,
+    "isInner": false
   },
   {
     "name": "GitHub",
